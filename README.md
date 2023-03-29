@@ -17,10 +17,7 @@
   <a href="https://rghanks.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
-  <a href="https://opensea.io/jyotirmoydotdev">
-    <img src="https://img.shields.io/badge/opensea-407FDB?style=for-the-badge&logo=opensea&logoColor=white">
-  </a>
-  
+ 
 ## About Me
 <p>
 I am a developer with a strong interest in blockchain technology. I have a wide range of skills and experience in the development field, and I am always keen to learn new technologies. I am a self-starter who is able to work independently, and I am also a good team player. I am proactive and have a positive attitude, which I believe are essential qualities for a successful developer.
@@ -44,46 +41,12 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge">
 </p>
 
-## Skills and Achivement
-| Soft Skill | Technical Skill | Achivement |
-| - | :-:  | - | 
-| Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++
-| Team Player | Web Developemnt | 
-| Adaptability | Backend Development |
-| Problem-Solving | Smart Contract Development |
-| Self-Awareness | <!--Microservices--> |
 
-## Latest blog posts 
-<!-- BLOG-POST-LIST:START -->
-- [How to interact with Smart Contract?](https://jyotirmoy.dev/how-to-interact-with-smart-contract)
-- [Fetch Balance from Ethereum Blockchain](https://jyotirmoy.dev/fetch-balance-from-ethereum-blockchain)
-- [Blockchain Storage](https://jyotirmoy.dev/blockchain-storage)
-- [Cryptography](https://jyotirmoy.dev/cryptography)
-- [Decentralization with Blockchain](https://jyotirmoy.dev/decentralization-with-blockchain)
-<!-- BLOG-POST-LIST:END -->
+
   
 ## Question Solved
 
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
+| [Leetcode](https://leetcode.com/rghanks/) | [Interviewbit](https://interviewbit.com/profile/rghanks/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rghanks/practice) | [Hackerrank Badges](https://www.hackerrank.com/rghanks)| [HackerEarth](https://www.hackerearth.com/@rghanks) |
 |-|-|-|-|-|
   
 
-
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=project-hello-world&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/project-hello-world/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=whatsappme&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=tic-tac-toe&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/tic-tac-toe/)
-
-## Stats
-
-<p align="center">
-<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&width=full&theme=discord_old_blurple&hide_border=true">
-
-</p>
-
-## Education
-| Institution Name | Course | Year | Grade |
-| - | :-: | -| -|
-| Chandigarh University | Bachalor of Computer Application | July 2021 - June 2024 | |
-| Kendriya Vidyalaya Tura | Science | July 2020 - June 2021 | 75 % |
