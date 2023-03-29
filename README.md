@@ -49,4 +49,27 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 | [Leetcode](https://leetcode.com/rghanks/) | [Interviewbit](https://interviewbit.com/profile/rghanks/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rghanks/practice) | [Hackerrank Badges](https://www.hackerrank.com/rghanks)| [HackerEarth](https://www.hackerearth.com/@rghanks) |
 |-|-|-|-|-|
   
+  
+  
+  Software Developer.
+1+ years of experience in Blockchain Technologies, with multiple projects.
+
+Birthday:
+04 Jun 1999
+Website:
+rghanks.github.io/resume/
+Phone:
++91 9140943018
+City:
+Prayagraj, Uttar Pradesh
+Age:
+23
+Degree:
+B.Tech
+Email:
+rghanks01@gmail.com
+A punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills.
+  
+  
+  
 
