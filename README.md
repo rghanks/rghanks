@@ -20,7 +20,7 @@
  
 ## About Me
 <p>
-Hello, I am Rahul Gupta, a blockchain developer with 1+ years of experience. My expertise lies in developing decentralized applications (dApps) and smart contracts on blockchain platforms such as Ethereum, Binance and Tron. I am passionate about the potential of blockchain technology to revolutionize various industries and create a more transparent and secure future.
+Hello, I am Rahul Gupta, a blockchain developer with 1+ year of experience. My expertise lies in developing decentralized applications (dApps) and smart contracts on blockchain platforms such as Ethereum, Binance and Tron. I am passionate about the potential of blockchain technology to revolutionize various industries and create a more transparent and secure future.
 
 
 </p>
