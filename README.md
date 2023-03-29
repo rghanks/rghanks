@@ -20,9 +20,23 @@
  
 ## About Me
 <p>
-I am a developer with a strong interest in blockchain technology. I have a wide range of skills and experience in the development field, and I am always keen to learn new technologies. I am a self-starter who is able to work independently, and I am also a good team player. I am proactive and have a positive attitude, which I believe are essential qualities for a successful developer.
+Hello, I am Rahul Gupta, a blockchain developer with 1+ years of experience. My expertise lies in developing decentralized applications (dApps) and smart contracts on blockchain platforms such as Ethereum, Binance and Tron. I am passionate about the potential of blockchain technology to revolutionize various industries and create a more transparent and secure future.
+
+
 </p>
 </details>
+
+
+##Skills
+Strong programming skills in languages such as Solidity, JavaScript, C++
+Experience with blockchain platforms such as Ethereum, Binance, Tron
+Knowledge of blockchain architecture, consensus algorithms, and cryptography
+Familiarity with web3.js, Truffle, Remix, and other blockchain development tools
+Understanding of smart contract development and testing frameworks
+Experience with integrating blockchain solutions with existing systems
+Knowledge of decentralized finance (DeFi) and non-fungible tokens (NFTs)
+
+
 
 ## Languages and Tools
 <p align="center">
