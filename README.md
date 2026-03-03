@@ -14,10 +14,13 @@
 # 👨‍💻 About Me  
 I’m **Rahul Gupta**, a Full-Stack Software Developer with 4+ years of experience building:
 
-- Healthcare automation systems (OPD/IPD, billing, vitals, patient logs)  
-- FinTech investment and ROI platforms  
-- Blockchain applications (ICO, wallet, payout systems)  
-- Scalable backend architectures with REST APIs  
+- Designed and developed complete **healthcare automation systems**, covering OPD/IPD workflows, clinical modules, billing, vitals tracking, prescription engines, lab/LIS integration, nursing workflows, patient logs, and discharge/day-care summaries.
+
+- Built **FinTech investment and ROI platforms** with referral systems, secure wallet logic, transaction flow, payout engines, and real-time reporting dashboards.
+
+- Developed **enterprise-grade blockchain applications**, including ICO launch platforms, smart contract logic, multi-wallet integration, and automated global payout systems.
+
+- Engineered **scalable backend architectures** using modular REST APIs, optimized databases, and clean service-layer patterns for performance and maintainability.
 
 Skilled in **Laravel, Node.js, React.js, MySQL, MongoDB**, and clean, maintainable software engineering.
 
