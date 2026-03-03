@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00C5FF&center=true&vCenter=true&width=650&lines=Rahul+Gupta;Full+Stack+Software+Developer;Laravel+%7C+Node.js+%7C+React;Healthcare+%2F+FinTech+%2F+Blockchain;Remote+Developer+%7C+Open+to+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00C5FF&center=true&vCenter=true&width=650&lines=Rahul+Gupta;Full+Stack+Software+Developer;Laravel+%7C+Node.js+%7C+React;Healthcare+%2F+FinTech+%2F+Blockchain;Remote+Developer" />
 </p>
 
 <!-- Social Buttons -->
